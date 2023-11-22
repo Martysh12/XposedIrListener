@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XposedIrListener</string>
+    <string name="app_description">Listen to and log IR remote events</string>
+</resources>
